@@ -5,6 +5,7 @@ National Taichung University Of Science and Technology
 # Programming Languages Touched
 Python\
 C++\
+JavaSript\
 Java\
 SQL\
 PHP\
