@@ -7,6 +7,8 @@ Python\
 C++\
 Java\
 SQL\
+PHP\
+HTML\
 Assembly Language\
 Markdown\
 Batch Scripting\
