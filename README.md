@@ -2,7 +2,7 @@
 **陌生人你好呀~!\
 Greetings, stranger!**
 ## Stats Board
-![Stats](https://github-readme-stats.vercel.app/api?username=TatshSiow&show_icons=true&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=TatshSiow&show_icons=true&theme=tokyonight&rank_icon=github)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TatshSiow&layout=donut&theme=tokyonight)
 
