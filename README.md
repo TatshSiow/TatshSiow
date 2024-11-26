@@ -1,4 +1,4 @@
-# Tatsh Siow
+# Tatsh
 **陌生人你好呀~!\
 Greetings, stranger!**
 ## Stats Board
