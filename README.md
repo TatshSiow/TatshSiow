@@ -13,4 +13,4 @@ Greetings, stranger!**
 ![Pad5Pro-ZXL-HyperOS-2.0.7-Fix](https://github-readme-stats.vercel.app/api/pin/?username=TatshSiow&repo=Pad5Pro-ZXL-HyperOS-2.0.7-Fix&theme=tokyonight)
 
 ## [SDO-X Osu! Project](https://sites.google.com/view/sdo-x-global-fansite/downloads/fanmade-games/sdo-x-osu-project)
-![SDO-X Osu! Project](https://github.com/user-attachments/assets/e51afa64-869b-48aa-a39d-fff71bfab467)\
+![SDO-X Osu! Project](https://github.com/user-attachments/assets/e51afa64-869b-48aa-a39d-fff71bfab467)
