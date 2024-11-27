@@ -10,7 +10,7 @@
 
   <h2>Stats Board</h2>
   
-  ![Stats](https://github-readme-stats.vercel.app/api?username=TatshSiow&show_icons=true&theme=tokyonight&rank_icon=github)\
+  ![Stats](https://github-readme-stats.vercel.app/api?username=TatshSiow&show_icons=true&theme=tokyonight)\
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TatshSiow&layout=donut&theme=tokyonight)
   
   <h2>Devices</h2>
