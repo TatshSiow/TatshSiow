@@ -1,12 +1,14 @@
 <p align="center"><img src="https://capsule-render.vercel.app/api?text=Greetings%20Stranger!%20❤&&desc=陌生人你好呀~!&animation=twinkling&type=venom&color=gradient&height=200"/></p>
-<p align="center"><a href="https://www.instagram.com/tatsh.siow/" >Instagram</a></p>
-<p align="center"><a href="https://www.youtube.com/@tatshsiow/" >YouTube</a></p>
+<p align="center">
+  <a href="https://www.instagram.com/tatsh.siow/" ><img height="50" src="https://www.vectorlogo.zone/logos/instagram/instagram-tile.svg"/></a>
+  <a href="https://www.youtube.com/@tatshsiow/" ><img height="50" src="https://www.vectorlogo.zone/logos/youtube/youtube-tile.svg"/></a>
+  <a href="https://discord.com/users/tatsh.siow" ><img height="50" src="https://www.vectorlogo.zone/logos/discord/discord-tile.svg"/></a>
+</p>
 
 <div align="center">
 <h2>Stats Board</h2>
   
 ![Stats](https://github-readme-stats.vercel.app/api?username=TatshSiow&show_icons=true&theme=tokyonight&rank_icon=github)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TatshSiow&layout=donut&theme=tokyonight)
 
 <h2>What have I done???!!!</h2>
