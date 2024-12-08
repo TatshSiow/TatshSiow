@@ -9,6 +9,13 @@
     <a href="https://t.me/TatshSecretCave" ><img height="50" src="https://www.vectorlogo.zone/logos/telegram/telegram-tile.svg"/></a>
   </p>
 
+<h2>About Me</h2>
+<p align=center>
+00's Aquarius, Malaysian
+  
+Code to solve my daily needs
+</p>
+
   <h2>Stats Board</h2>
   
   ![Stats](https://github-readme-stats.vercel.app/api?username=TatshSiow&show_icons=true&theme=tokyonight)\
