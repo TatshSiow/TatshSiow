@@ -27,12 +27,6 @@ Code to solve my daily needs
   <a href="https://www.gsmarena.com/xiaomi_pad_5_pro-11043.php" >![Stats](https://shields.io/badge/Xiaomi-Xiaomi_Pad_5_Pro-2952FA?style=for-the-badge&logo=Xiaomi&logoColor=FFFFFF)</a>
   ![Stats](https://shields.io/badge/HP_Omen_17-cb1001nx-2952FA?style=for-the-badge&logo=HP&logoColor=FFFFFF)
   
-  <h2>What have I done ???!!!</h2>
-
-  <a href="https://github.com/TatshSiow/Hotel-Management-System" >![DatabaseSystem](https://github-readme-stats.vercel.app/api/pin/?username=TatshSiow&repo=Hotel-Management-System&theme=tokyonight)</a>
-  <a href="https://github.com/TatshSiow/SmoothScrollAutoRefresh" >![SmoothScrollAutoRefresh](https://github-readme-stats.vercel.app/api/pin/?username=TatshSiow&repo=SmoothScrollAutoRefresh&theme=tokyonight)</a>\
-  <a href="https://github.com/TatshSiow/HyperOptimize" >![HyperOptimize](https://github-readme-stats.vercel.app/api/pin/?username=TatshSiow&repo=HyperOptimize&theme=tokyonight)</a>
-  <a href="https://github.com/TatshSiow/Pad5Pro-ZXL-HyperOS-2.0.7-Fix" >![Pad5Pro-ZXL-HyperOS-2.0.7-Fix](https://github-readme-stats.vercel.app/api/pin/?username=TatshSiow&repo=Pad5Pro-ZXL-HyperOS-2.0.7-Fix&theme=tokyonight)</a>
 
   <h2><a href="https://sites.google.com/view/sdo-x-global-fansite/downloads/fanmade-games/sdo-x-osu-project">SDO-X Osu! Project</a></h2>
   
