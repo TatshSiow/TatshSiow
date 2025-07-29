@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Greetings%20Stranger!%20❤&&desc=陌生人你好呀~!&animation=twinkling&type=blur&color=gradient&height=400"/></p>
+  <img src="https://capsule-render.vercel.app/api?text=Greetings%20Stranger!&&desc=陌生人你好呀~!&animation=twinkling&type=blur&color=gradient&height=400"/></p>
   <h2>About Me</h2>
   <p align=center>
     00's Aquarius, Malaysian | 
