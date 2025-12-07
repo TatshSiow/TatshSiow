@@ -5,8 +5,8 @@
     I code for what I need
   
   <h2>📊 Stats Board 📊</h2>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TatshSiow&layout=donut&theme=tokyonight" alt="Top Langs" height="195"/>
-    <img src="https://github-readme-stats.vercel.app/api?username=TatshSiow&show_icons=true&theme=tokyonight" alt="Stats" height="200"/>
+    <img src="https://github-readme-stats-nine-iota-15.vercel.app/api/top-langs/?username=TatshSiow&layout=donut&theme=tokyonight" alt="Top Langs" height="195"/>
+    <img src="https://github-readme-stats-nine-iota-15.vercel.app/api?username=TatshSiow&show_icons=true&theme=tokyonight" alt="Stats" height="200"/>
 
 
   <h2>💻 Devices 💻</h2>
