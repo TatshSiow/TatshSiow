@@ -25,7 +25,6 @@
   <p align="center">
     <a href="https://www.instagram.com/tatsh.siow/" ><img height="50" src="https://www.vectorlogo.zone/logos/instagram/instagram-tile.svg"/></a>
     <a href="https://www.youtube.com/@tatshsiow/" ><img height="50" src="https://www.vectorlogo.zone/logos/youtube/youtube-tile.svg"/></a>
-    <a href="https://discord.com/users/tatsh.siow" ><img height="50" src="https://www.vectorlogo.zone/logos/discord/discord-tile.svg"/></a>
     <a href="https://t.me/TatshSecretCave" ><img height="50" src="https://www.vectorlogo.zone/logos/telegram/telegram-tile.svg"/></a>
   </p>
 </div>
