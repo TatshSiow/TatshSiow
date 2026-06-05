@@ -4,15 +4,7 @@
     Zillennial Aquarius | Malaysia AH BOY <br/>
     I code for what I need <br/>
     <br/>
-    Mostly Focus on: <br/>
-    Fullstack Web Developing<br/>
-    Data Engineering <br/>
-    Action Automation <br/>
-    Android Optmization <br/>
-    
-
-
-  
+    Fullstack Web Developing | Data Engineering | Action Automation | Android Optmization
   <h2>📊 Stats Board 📊</h2>
     <img src="https://github-readme-stats-nine-iota-15.vercel.app/api/top-langs/?username=TatshSiow&layout=donut&theme=tokyonight" alt="Top Langs" height="195"/>
     <img src="https://github-readme-stats-nine-iota-15.vercel.app/api?username=TatshSiow&show_icons=true&theme=tokyonight" alt="Stats" height="200"/>
