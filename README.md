@@ -2,7 +2,16 @@
   <img src="https://capsule-render.vercel.app/api?text=Greetings%20Stranger!&fontSize=36&&desc=陌生人你好呀~!&descSize=16&animation=twinkling&type=blur&color=gradient&height=292"/></p>
   <h2>✨ About Me ✨</h2>
     Zillennial Aquarius | Malaysia AH BOY <br/>
-    I code for what I need
+    I code for what I need <br/>
+    <br/>
+    Mostly Focus on: <br/>
+    Fullstack Web Developing<br/>
+    Data Engineering <br/>
+    Action Automation <br/>
+    Android Optmization <br/>
+    
+
+
   
   <h2>📊 Stats Board 📊</h2>
     <img src="https://github-readme-stats-nine-iota-15.vercel.app/api/top-langs/?username=TatshSiow&layout=donut&theme=tokyonight" alt="Top Langs" height="195"/>
